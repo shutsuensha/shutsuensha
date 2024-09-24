@@ -28,12 +28,12 @@ Here are some of my notable projects:
 
 - [**Web Online Store**](https://shutsuensha.pythonanywhere.com/): This web application, built using Django, is designed to enhance the e-commerce experience by providing users with an intuitive platform for browsing and purchasing products.
 
-- ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) **Framework**: Django  
-- ![Google One-Tap](https://img.icons8.com/ios-filled/50/000000/google-logo.png) **Authentication**: Google One-Tap, Python Social Auth  
-- ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) **Database**: PostgreSQL  
-- ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) **Frontend**: Bootstrap  
-- ![Docker](https://img.icons8.com/color/50/000000/docker.png) **Deployment**: Docker  
-- ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png) **Notifications**: Telegram Bot API, Email Services 
+- ![Django](https://img.icons8.com/ios-filled/50/000000/django.png)
+- ![Google One-Tap](https://img.icons8.com/ios-filled/50/000000/google-logo.png)
+- ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png)
+- ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png)
+- ![Docker](https://img.icons8.com/color/50/000000/docker.png)
+- ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)
 
 
 
