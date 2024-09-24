@@ -8,7 +8,6 @@ I specialize in developing backend systems using Python, with a strong foundatio
 
 ## 🔧 Technologies & Tools
 
-### Backend
 - **Languages:** Python + Pydantic
 - **Frameworks:** Django, Django Rest Framework, Flask, FastAPI
 - **Databases:** SQL, NoSQL, PostgreSQL, MySQL, MongoDB, SQLite, SQLAlchemy, Alembic
@@ -19,10 +18,7 @@ I specialize in developing backend systems using Python, with a strong foundatio
 - **Telegram Bot Development:** Aiogram
 - **Asynchronous Task Processing & Scheduling:** Celery, Celery Beat
 - **Version Control:** Git, GitHub
-
-### Frontend
-- **Web:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Bootstrap, Tailwind CSS
+- **Web:** JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
 
 
 
