@@ -32,20 +32,19 @@ Here are some of my notable projects:
 
 - [**Telegram Online Store**](https://github.com/shutsuensha/telegram_bot_store): Overall, the Telegram bot addresses multiple challenges related to user engagement, order management, and administrative efficiency, providing a comprehensive solution for e-commerce operations.
 ![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png)
-- [**Project Name**](link): A brief description of what the project does and technologies used.
+- [**Cat downloader**](https://github.com/shutsuensha/cat-downloader): Overall, this web application effectively addresses challenges related to user engagement, performance, scalability, and reliability, providing a seamless experience for users looking to enjoy random cat images.
+![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Celery](https://img.icons8.com/ios-filled/50/000000/celery.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png) 
 
 ## 💬 Let’s Connect
 
 I’m always eager to collaborate on interesting projects or discuss tech trends! Feel free to reach out to me.
 
-- [LinkedIn](link)
-- [Twitter](link)
-- [Email](your_email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/daniil-kupryianchyk-960594322/)
 
 ## 📫 Get in Touch
 
 You can reach me via:
-- **Email:** your_email@example.com
-- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Email:** dankupr21@gmail.com
+- **Telegram:** [Telegram](https://t.me/evalshine)
 
 Thank you for visiting my GitHub profile! 🌟
