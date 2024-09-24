@@ -21,7 +21,7 @@ I specialize in developing backend systems using Python, with a strong foundatio
 - **Version Control:** Git, GitHub
 
 ### Frontend
-- **Web:**JavaScript, HTML, CSS
+- **Web:** JavaScript, HTML, CSS
 - **Frameworks & Libraries:** Bootstrap, Tailwind CSS
 
 
