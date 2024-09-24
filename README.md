@@ -34,7 +34,8 @@ An intuitive e-commerce web application built with **Django**, designed to enhan
 
 ### 2. [**Telegram Online Store**](https://github.com/shutsuensha/telegram_bot_store)
 A comprehensive solution for e-commerce operations, this Telegram bot enhances user engagement, manages orders, and streamlines administrative tasks efficiently.  
-![Python](https://img.icons8.com/?size=50&id=12592&format=png&color=000000) ![aiogram](https://via.placeholder.com/100x50.png?text=aiogram) ![asyncio](https://via.placeholder.com/100x50.png?text=asyncio)
+![Python](https://img.icons8.com/?size=50&id=12592&format=png&color=000000) ![Aiogram Logo](https://raw.githubusercontent.com/aiogram/aiogram/main/assets/logo.png) ![Asyncio](https://docs.python.org/3/_static/py.png)
+
 
 ---
 
