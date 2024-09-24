@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-I specialize in developing backend systems using Python, with a strong foundation in frameworks like Django and Flask. My goal is to create high-performance applications that provide a seamless user experience.
+I specialize in developing backend systems using Python, with a strong foundation in frameworks like Django(DRF), FastAPI, Flask. My goal is to create high-performance applications that provide a seamless user experience.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, SQL, NoSQL
-- **Frameworks:** Django, Flask, FastAPI
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **Frameworks:** Django, Django Rest Framework, Flask, FastAPI
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Redis
 - **DevOps:** Docker, CI/CD
 - **Testing & Automation:** Pytest, Celery, Redis
 - **Version Control:** Git, GitHub
@@ -26,19 +26,22 @@ I’m currently working on:
 
 ### 1. [**Web Online Store**](https://shutsuensha.pythonanywhere.com/)
 An intuitive e-commerce web application built with **Django**, designed to enhance the shopping experience by allowing users to browse and purchase products easily.  
-![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Google One-Tap](https://img.icons8.com/ios-filled/50/000000/google-logo.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)
+![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Django ORM](https://img.icons8.com/ios-filled/50/000000/django.png) ![Django Mail](https://img.icons8.com/ios-filled/50/000000/django.png) ![Telegram Bot API](https://img.icons8.com/ios-filled/50/000000/telegram-app.png) ![Google One-Tap](https://img.icons8.com/ios-filled/50/000000/google-logo.png) ![Python Social Auth](https://img.icons8.com/ios-filled/50/000000/python.png)
+
 
 ---
 
 ### 2. [**Telegram Online Store**](https://github.com/shutsuensha/telegram_bot_store)
 A comprehensive solution for e-commerce operations, this Telegram bot enhances user engagement, manages orders, and streamlines administrative tasks efficiently.  
-![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png)
+![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![SQLAlchemy](https://img.icons8.com/ios-filled/50/000000/sqlalchemy.png) ![Aiogram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png) ![AsyncIO](https://img.icons8.com/ios-filled/50/000000/python.png)
+
 
 ---
 
 ### 3. [**Cat Downloader**](https://github.com/shutsuensha/cat-downloader)
 This web application provides a seamless experience for users looking to enjoy random cat images, addressing challenges in user engagement, performance, scalability, and reliability.  
-![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Celery](https://img.icons8.com/ios-filled/50/000000/celery.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png)
+![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Celery](https://img.icons8.com/ios-filled/50/000000/celery.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png)
+
 
 ---
 
