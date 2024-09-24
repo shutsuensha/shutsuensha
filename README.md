@@ -26,7 +26,14 @@ I’m currently working on:
 
 Here are some of my notable projects:
 
-- [**Project Name**](link): A brief description of what the project does and technologies used.
+- [**web online store**](https://shutsuensha.pythonanywhere.com/): This web application, built using Django, is designed to enhance the e-commerce experience by providing users with an intuitive platform for browsing and purchasing products.Technologies Used
+Framework: Django
+Authentication: Google One-Tap, Python Social Auth
+Database: [Specify the database used, e.g., PostgreSQL, MySQL]
+Frontend: [Specify if any frontend frameworks were used, e.g., Bootstrap, Tailwind CSS]
+Deployment: [Specify deployment tools or platforms, e.g., Docker, Heroku]
+Notifications: Telegram Bot API, Email services
+
 - [**Project Name**](link): A brief description of what the project does and technologies used.
 - [**Project Name**](link): A brief description of what the project does and technologies used.
 
