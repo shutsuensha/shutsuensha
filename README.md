@@ -45,6 +45,6 @@ I’m always eager to collaborate on interesting projects or discuss tech trends
 
 You can reach me via:
 - **Email:** dankupr21@gmail.com
-- **Telegram:** [Telegram](https://t.me/evalshine)
+- **Telegram:** [@evalshine](https://t.me/evalshine)
 
 Thank you for visiting my GitHub profile! 🌟
