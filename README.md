@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I specialize in developing backend systems using Python, with a strong foundation in frameworks like Django(DRF), FastAPI, Flask. My goal is to create high-performance applications that provide a seamless user experience.
+I specialize in developing backend systems using Python, with a strong foundation in frameworks like Django, Django Rest Framework, FastAPI, Flask. My goal is to create high-performance applications that provide a seamless user experience.
 
 ## 🔧 Technologies & Tools
 
