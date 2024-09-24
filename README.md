@@ -9,13 +9,13 @@ I specialize in developing backend systems using Python, with a strong foundatio
 ## 🔧 Technologies & Tools
 
 ### Backend
-- **Languages:** Python
+- **Languages:** Python + Pydantic
 - **Frameworks:** Django, Django Rest Framework, Flask, FastAPI
-- **Databases:** SQL, NoSQL, PostgreSQL, MySQL, MongoDB, SQLite
+- **Databases:** SQL, NoSQL, PostgreSQL, MySQL, MongoDB, SQLite, SQLAlchemy, Alembic
 - **Caching:** Redis
 - **DevOps:** Docker, CI/CD
 - **Testing & Automation:** Pytest
-- **Asynchronous Programming:** asyncio
+- **Asynchronous Programming:** Asyncio
 - **Telegram Bot Development:** Aiogram
 - **Asynchronous Task Processing & Scheduling:** Celery, Celery Beat
 - **Version Control:** Git, GitHub
