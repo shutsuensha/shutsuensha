@@ -41,7 +41,7 @@ A comprehensive solution for e-commerce operations, this Telegram bot enhances u
 
 ### 3. [**Cat Downloader**](https://github.com/shutsuensha/cat-downloader)
 This web application provides a seamless experience for users looking to enjoy random cat images, addressing challenges in user engagement, performance, scalability, and reliability.  
-![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Celery](https://img.icons8.com/ios-filled/50/000000/celery.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png)
+![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png)  ![Django](https://img.icons8.com/?size=50&id=37o3DqV429ra&format=png&color=000000) ![Celery](https://img.icons8.com/?size=100&id=wOL8C5eXASQ6&format=png&color=000000) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png)
 
 
 ---
