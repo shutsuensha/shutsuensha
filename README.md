@@ -24,16 +24,24 @@ I’m currently working on:
 
 ## 📂 Projects
 
-Here are some of my notable projects:
-
-- [**Web Online Store**](https://shutsuensha.pythonanywhere.com/): This web application, built using Django, is designed to enhance the e-commerce experience by providing users with an intuitive platform for browsing and purchasing products.
+### 1. [**Web Online Store**](https://shutsuensha.pythonanywhere.com/)
+An intuitive e-commerce web application built with **Django**, designed to enhance the shopping experience by allowing users to browse and purchase products easily.  
 ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Google One-Tap](https://img.icons8.com/ios-filled/50/000000/google-logo.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)
 
+---
 
-- [**Telegram Online Store**](https://github.com/shutsuensha/telegram_bot_store): Overall, the Telegram bot addresses multiple challenges related to user engagement, order management, and administrative efficiency, providing a comprehensive solution for e-commerce operations.
+### 2. [**Telegram Online Store**](https://github.com/shutsuensha/telegram_bot_store)
+A comprehensive solution for e-commerce operations, this Telegram bot enhances user engagement, manages orders, and streamlines administrative tasks efficiently.  
 ![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png)
-- [**Cat downloader**](https://github.com/shutsuensha/cat-downloader): Overall, this web application effectively addresses challenges related to user engagement, performance, scalability, and reliability, providing a seamless experience for users looking to enjoy random cat images.
-![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Celery](https://img.icons8.com/ios-filled/50/000000/celery.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png) 
+
+---
+
+### 3. [**Cat Downloader**](https://github.com/shutsuensha/cat-downloader)
+This web application provides a seamless experience for users looking to enjoy random cat images, addressing challenges in user engagement, performance, scalability, and reliability.  
+![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Celery](https://img.icons8.com/ios-filled/50/000000/celery.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png)
+
+---
+
 
 ## 💬 Let’s Connect
 
