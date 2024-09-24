@@ -27,10 +27,11 @@ I’m currently working on:
 Here are some of my notable projects:
 
 - [**Web Online Store**](https://shutsuensha.pythonanywhere.com/): This web application, built using Django, is designed to enhance the e-commerce experience by providing users with an intuitive platform for browsing and purchasing products.
-- ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Google One-Tap](https://img.icons8.com/ios-filled/50/000000/google-logo.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)
+![Django](https://img.icons8.com/ios-filled/50/000000/django.png) ![Google One-Tap](https://img.icons8.com/ios-filled/50/000000/google-logo.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)
 
 
-- [**Project Name**](link): A brief description of what the project does and technologies used.
+- [**Telegram Online Store**](https://github.com/shutsuensha/telegram_bot_store): Overall, the Telegram bot addresses multiple challenges related to user engagement, order management, and administrative efficiency, providing a comprehensive solution for e-commerce operations.
+![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png) ![PostgreSQL](https://img.icons8.com/color/50/000000/postgreesql.png) ![Docker](https://img.icons8.com/color/50/000000/docker.png) ![Redis](https://img.icons8.com/ios-filled/50/000000/redis.png)
 - [**Project Name**](link): A brief description of what the project does and technologies used.
 
 ## 💬 Let’s Connect
