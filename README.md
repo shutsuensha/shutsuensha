@@ -29,12 +29,13 @@ Here are some of my notable projects:
 - [**Web Online Store**](https://shutsuensha.pythonanywhere.com/): This web application, built using Django, is designed to enhance the e-commerce experience by providing users with an intuitive platform for browsing and purchasing products.
 
 ### Technologies Used
-- **Framework**: Django
-- **Authentication**: Google One-Tap, Python Social Auth
-- **Database**: [Your Database Name Here] (e.g., PostgreSQL, MySQL)
-- **Frontend**: [Your Frontend Framework Here] (e.g., Bootstrap, Tailwind CSS)
-- **Deployment**: [Your Deployment Tools Here] (e.g., Docker, Heroku)
-- **Notifications**: Telegram Bot API, Email Services
+- ![Django](https://via.placeholder.com/20) **Framework**: Django
+- ![Google One-Tap](https://via.placeholder.com/20) **Authentication**: Google One-Tap, Python Social Auth
+- ![Database](https://via.placeholder.com/20) **Database**: [Your Database Name Here] (e.g., PostgreSQL, MySQL)
+- ![Frontend](https://via.placeholder.com/20) **Frontend**: [Your Frontend Framework Here] (e.g., Bootstrap, Tailwind CSS)
+- ![Deployment](https://via.placeholder.com/20) **Deployment**: [Your Deployment Tools Here] (e.g., Docker, Heroku)
+- ![Telegram Bot API](https://via.placeholder.com/20) **Notifications**: Telegram Bot API, Email Services
+
 
 
 - [**Project Name**](link): A brief description of what the project does and technologies used.
