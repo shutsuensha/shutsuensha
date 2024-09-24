@@ -1,16 +1,47 @@
-## Hi there 👋
+# Daniil Kupryianchyk
 
-<!--
-**shutsuensha/shutsuensha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I’m a passionate Python backend developer focused on building scalable and efficient applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in developing backend systems using Python, with a strong foundation in frameworks like Django and Flask. My goal is to create high-performance applications that provide a seamless user experience.
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Python, SQL, NoSQL
+- **Frameworks:** Django, Flask, FastAPI
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **DevOps:** Docker, CI/CD
+- **Testing & Automation:** Pytest, Celery, Redis
+- **Version Control:** Git, GitHub
+
+## 🌱 Current Focus
+
+I’m currently working on:
+- Developing RESTful APIs and microservices.
+- Optimizing backend performance and database queries.
+- Implementing CI/CD pipelines for streamlined deployment processes.
+
+## 📂 Projects
+
+Here are some of my notable projects:
+
+- [**Project Name**](link): A brief description of what the project does and technologies used.
+- [**Project Name**](link): A brief description of what the project does and technologies used.
+- [**Project Name**](link): A brief description of what the project does and technologies used.
+
+## 💬 Let’s Connect
+
+I’m always eager to collaborate on interesting projects or discuss tech trends! Feel free to reach out to me.
+
+- [LinkedIn](link)
+- [Twitter](link)
+- [Email](your_email@example.com)
+
+## 📫 Get in Touch
+
+You can reach me via:
+- **Email:** your_email@example.com
+- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+
+Thank you for visiting my GitHub profile! 🌟
