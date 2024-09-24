@@ -26,7 +26,7 @@ I’m currently working on:
 
 ### 1. [**Web Online Store**](https://shutsuensha.pythonanywhere.com/)
 An intuitive e-commerce web application built with **Django**, designed to enhance the shopping experience by allowing users to browse and purchase products easily.  
-![Python](https://img.icons8.com/ios-filled/50/000000/python.png) ![Django](https://img.icons8.com/ios-filled/50/000000/django.png)![Telegram Bot API](https://img.icons8.com/ios-filled/50/000000/telegram-app.png) ![Google One-Tap](https://img.icons8.com/ios-filled/50/000000/google-logo.png) ![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=12592&format=png&color=000000) ![Django](https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=000000)![Telegram Bot API](https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000) ![Google One-Tap](https://img.icons8.com/?size=100&id=17950&format=png&color=000000) ![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)
 
 
 
