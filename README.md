@@ -38,7 +38,7 @@ An intuitive e-commerce web application built with **Django**, designed to enhan
 
 ---
 
-### 2. [**Telegram Online Store**](https://github.com/shutsuensha/telegram_bot_store)
+### 2. [**Telegram Online Store**](https://t.me/LaModaItaliaBot)
 A comprehensive solution for e-commerce operations, this Telegram bot enhances user engagement, manages orders, and streamlines administrative tasks efficiently.  
 ![Python](https://img.icons8.com/?size=50&id=12592&format=png&color=000000) ![SQLite](https://img.icons8.com/?size=50&id=VMRAbKfEzssG&format=png&color=000000) ![Telegram Bot API](https://img.icons8.com/?size=50&id=lUktdBVdL4Kb&format=png&color=000000)
 
