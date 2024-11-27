@@ -1,5 +1,5 @@
 ## Hi there 🙌
-Me - becoming python backend devloper
+Me - becoming python backend developer
 
 ## 🌱 Current Focus
 - Learning backend frameworks + stack
