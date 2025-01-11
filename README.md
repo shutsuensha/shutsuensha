@@ -27,3 +27,9 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313lj4q6w3ni7dbobjl7tzfgcrui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile">
+  </a>
+</div>
