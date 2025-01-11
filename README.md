@@ -24,12 +24,6 @@
       <td>
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,archive2,archive3,archive4,tms_solutions&theme=vue" />
       </td>
-      <!-- Spotify card -->
-      <td>
-        <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313lj4q6w3ni7dbobjl7tzfgcrui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" height="200">
-        </a>
-      </td>
     </tr>
   </table>
 </div>
