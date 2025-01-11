@@ -1,7 +1,7 @@
 <p align="center" style="font-family: 'cursive'; font-size: 24px;">
-  <a href="https://shutsuensha.github.io/" style="text-decoration: underline; color: inherit;">
-    Explore My GitHub Portfolio
-  </a>
+  -> <a href="https://shutsuensha.github.io/" style="text-decoration: underline; color: inherit;">
+    shutsuensha.github.io
+  </a> <-
 </p>
 
 
