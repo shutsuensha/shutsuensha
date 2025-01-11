@@ -5,5 +5,5 @@
 </div>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,archive2,archive3,archive4,tms_solutions&theme=swift" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,archive2,archive3,archive4,tms_solutions&theme=vue" />
 </a>
