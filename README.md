@@ -33,44 +33,4 @@
       </td>
     </tr>
   </table>
-</div>
-
-
-- github readme profile
-  - description as developer nothing more
-  
-- github page/vue hostings(nestify,vercel)
-  - resume/about/portfolio full description about me
-  
-- social app (pinterest)
-  - full fastapi + stack
-  - work with media
-  - vue frontend for complete app
-  - social like app for portfolio
-- ecommerce app (https://codepen.io/andymerskin/pen/XNMWvQ + vue snikers or https://thousand-cursed-enemies.com/)
-  - full fastapi + stack
-  - work with pay system
-  - vue frontend for complete app
-  - ecommerce app for portfolio
- 
-- streaming audio app (yandex/spotify music)
-  - full fastapi + stack
-  - work with streaming audio
-  - vue frontend for complete app
-  - streaming audio app for portfolio
-- streaming video app (twitch)
-  - full fastapi + stack
-  - work with streaming video
-  - vue frontend for complete app
-  - streaming video app for portfolio
- 
-- chat app (telegram)
-  - full fastapi + stack
-  - websockets
-  - vue frontend for complete app
-  - chat app for portfolio
- 
-- video/audio streaming + websockets
-- telegram app like ashqua (meetings), like chatgpt
- 
-- find project idea for portfolio + practice
+</div
