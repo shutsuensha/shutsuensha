@@ -1,3 +1,12 @@
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+</head>
+
+<div style="text-align: center; font-family: 'Poppins', sans-serif; font-size: 3em; font-weight: bold; color: #2c3e50;">
+  Daniil Kupryianchyk
+</div>
+
+
 <table>
   <tr>
     <th style="text-align: center;">🚀 Deployment & Infrastructure</th>
@@ -69,11 +78,11 @@
   <tr>
     <!-- Image -->
     <td style="border: none;">
-      <img src="shelby.gif" alt="Alt Text" width="300">
+      <img src="shelby.gif" alt="Alt Text" width="400">
     </td>
     <!-- GitHub stats -->
     <td style="border: none;">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,archive2,archive3,archive4,tms_solutions&theme=transparent" />
+      <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,archive2,archive3,archive4,tms_solutions&theme=transparent" />
     </td>
   </tr>
 </table>
