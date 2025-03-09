@@ -48,7 +48,6 @@
       <b>WebSockets</b> 🔗<br>
       <b>Logging</b> 📝<br>
       <b>Aiofiles</b> 📂<br>
-      <b>Jinja</b> 🧩
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>Vue.js</b> 🌐<br>
@@ -65,7 +64,8 @@
       <b>Memcached</b> 🧠<br>
       <b>Aiohttp</b> 🌍<br>
       <b>GitHub CI/CD</b> ⚙️<br>
-      <b>Aiogram</b> 🤖
+      <b>Aiogram</b> 🤖<br>
+      <b>Jinja</b> 🧩
     </td>
   </tr>
 </table>
