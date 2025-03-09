@@ -1,8 +1,7 @@
-
 <div align="center">
   <h2>Daniil Kupryianchyk</h2>
+  <p>1.5 Years of Non-Commercial Development Experience</p>
 </div>
-
 
 <table>
   <tr>
@@ -68,9 +67,6 @@
   </tr>
 </table>
 
-
-
-
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <!-- Image -->
@@ -86,4 +82,3 @@
 
 ## 🏆 **Certifications & Achievements**
 - 🏅 [FastAPI Artem Shumeiko Certification](https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf)
-
