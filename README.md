@@ -1,9 +1,6 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
-</head>
 
-<div style="text-align: center; font-family: 'Poppins', sans-serif; font-size: 3em; font-weight: bold; color: #2c3e50;">
-  Daniil Kupryianchyk
+<div align="center">
+  <h1>Daniil Kupryianchyk</h1>
 </div>
 
 
