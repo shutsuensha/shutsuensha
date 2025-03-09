@@ -8,46 +8,46 @@
     </tr>
     <tr>
       <td style="vertical-align: top; text-align: left;">
-        **Docker** 🐳<br>
-        **Docker Compose** 📦<br>
-        **Nginx** ⚙️<br>
-        **CI/CD** 🚀<br>
-        **Yandex S3** ☁️<br>
-        **Google OAuth2** 🔑
+        <b>Docker</b> 🐳<br>
+        <b>Docker Compose</b> 📦<br>
+        <b>Nginx</b> ⚙️<br>
+        <b>CI/CD</b> 🚀<br>
+        <b>Yandex S3</b> ☁️<br>
+        <b>Google OAuth2</b> 🔑
       </td>
       <td style="vertical-align: top; text-align: left;">
-        **MongoDB** 🗄️<br>
-        **PostgreSQL** 🐘<br>
-        **MySQL** 💾<br>
-        **Redis** 🔴
+        <b>MongoDB</b> 🗄️<br>
+        <b>PostgreSQL</b> 🐘<br>
+        <b>MySQL</b> 💾<br>
+        <b>Redis</b> 🔴
       </td>
       <td style="vertical-align: top; text-align: left;">
-        **Python** 🐍<br>
-        **FastAPI** ⚡<br>
-        **SQLAlchemy** 🛠️<br>
-        **Celery** 🐍⏱️<br>
-        **Pydantic** 📜<br>
-        **JWT** 🔑<br>
-        **httpx** 🌐<br>
-        **AsyncIO** 🌀<br>
-        **Pytest** 🧪<br>
-        **Ruff** 🦊<br>
-        **GraphQL (Strawberry)** 🍓<br>
-        **Alembic** 🏛️
+        <b>Python</b> 🐍<br>
+        <b>FastAPI</b> ⚡<br>
+        <b>SQLAlchemy</b> 🛠️<br>
+        <b>Celery</b> 🐍⏱️<br>
+        <b>Pydantic</b> 📜<br>
+        <b>JWT</b> 🔑<br>
+        <b>httpx</b> 🌐<br>
+        <b>AsyncIO</b> 🌀<br>
+        <b>Pytest</b> 🧪<br>
+        <b>Ruff</b> 🦊<br>
+        <b>GraphQL (Strawberry)</b> 🍓<br>
+        <b>Alembic</b> 🏛️
       </td>
       <td style="vertical-align: top; text-align: left;">
-        **Vue.js** 🌐<br>
-        **Vue Router** 🛣️<br>
-        **Pinia** 📦<br>
-        **Kinesis** ⚡<br>
-        **Axios** 📡<br>
-        **Tailwind CSS** 💨
+        <b>Vue.js</b> 🌐<br>
+        <b>Vue Router</b> 🛣️<br>
+        <b>Pinia</b> 📦<br>
+        <b>Kinesis</b> ⚡<br>
+        <b>Axios</b> 📡<br>
+        <b>Tailwind CSS</b> 💨
       </td>
     </tr>
   </table>
 </div>
 
-
+![Alt Text](shelby.gif)
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
