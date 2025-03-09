@@ -32,6 +32,8 @@
     <td style="vertical-align: top; text-align: left;">
       <b>Python</b> 🐍<br>
       <b>FastAPI</b> ⚡<br>
+      <b>FastAPI-Mail</b> 📧<br>
+      <b>FastAPI-Cache</b> 🧊<br>
       <b>SQLAlchemy</b> 🛠️<br>
       <b>Celery</b> 🐍⏱️<br>
       <b>Pydantic</b> 📜<br>
@@ -45,7 +47,8 @@
       <b>SSE</b> 📡<br>
       <b>WebSockets</b> 🔗<br>
       <b>Logging</b> 📝<br>
-      <b>Aiofiles</b> 📂
+      <b>Aiofiles</b> 📂<br>
+      <b>Jinja</b> 🧩
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>Vue.js</b> 🌐<br>
