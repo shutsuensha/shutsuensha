@@ -11,7 +11,9 @@
       <b>Docker</b> 🐳<br>
       <b>Docker Compose</b> 📦<br>
       <b>Nginx</b> ⚙️<br>
-      <b>CI/CD</b> 🚀<br>
+      <b>GitLab CI/CD</b> 🚀<br>
+      <b>VPS</b> 🌍<br>
+      <b>SSL</b> 🔒<br>
       <b>Yandex S3</b> ☁️<br>
       <b>Google OAuth2</b> 🔑
     </td>
@@ -50,10 +52,12 @@
       <b>Django REST</b> 🔗<br>
       <b>Flask</b> 🍶<br>
       <b>Memcached</b> 🧠<br>
-      <b>Aiohttp</b> 🌍
+      <b>Aiohttp</b> 🌍<br>
+      <b>GitHub CI/CD</b> ⚙️
     </td>
   </tr>
 </table>
+
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
