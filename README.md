@@ -47,8 +47,6 @@
   </table>
 </div>
 
-![Alt Text](shelby.gif)
-
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
