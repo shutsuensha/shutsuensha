@@ -16,6 +16,7 @@
       <b>SSL</b> 🔒<br>
       <b>Yandex S3</b> ☁️<br>
       <b>Google OAuth2</b> 🔑
+      <b>Git</b> 🌀
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>MongoDB</b> 🗄️<br>
