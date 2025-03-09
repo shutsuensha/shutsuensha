@@ -47,7 +47,7 @@
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>Django</b> 🎭<br>
-      <b>Django REST Framework</b> 🔗<br>
+      <b>Django REST</b> 🔗<br>
       <b>Flask</b> 🍶<br>
       <b>Memcached</b> 🧠<br>
       <b>Aiohttp</b> 🌍
