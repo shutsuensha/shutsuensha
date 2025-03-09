@@ -15,7 +15,7 @@
       <b>VPS</b> 🌍<br>
       <b>SSL</b> 🔒<br>
       <b>Yandex S3</b> ☁️<br>
-      <b>Google OAuth2</b> 🔑
+      <b>Google OAuth2</b> 🔑<br>
       <b>Git</b> 🌀
     </td>
     <td style="vertical-align: top; text-align: left;">
