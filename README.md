@@ -37,7 +37,9 @@
       <b>GraphQL (Strawberry)</b> 🍓<br>
       <b>Alembic</b> 🏛️<br>
       <b>SSE</b> 📡<br>
-      <b>WebSockets</b> 🔗
+      <b>WebSockets</b> 🔗<br>
+      <b>Logging</b> 📝<br>
+      <b>Aiofiles</b> 📂
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>Vue.js</b> 🌐<br>
@@ -58,6 +60,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
