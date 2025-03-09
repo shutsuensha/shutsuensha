@@ -53,10 +53,12 @@
       <b>Flask</b> 🍶<br>
       <b>Memcached</b> 🧠<br>
       <b>Aiohttp</b> 🌍<br>
-      <b>GitHub CI/CD</b> ⚙️
+      <b>GitHub CI/CD</b> ⚙️<br>
+      <b>Aiogram</b> 🤖
     </td>
   </tr>
 </table>
+
 
 
 <table style="border-collapse: collapse; border: none;">
