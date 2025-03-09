@@ -4,6 +4,7 @@
     <th style="text-align: center;">🗄️ Databases</th>
     <th style="text-align: center;">🐍 Backend (Python)</th>
     <th style="text-align: center;">🎨 Frontend</th>
+    <th style="text-align: center;">🛠️ Other Experience</th>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left;">
@@ -32,7 +33,9 @@
       <b>Pytest</b> 🧪<br>
       <b>Ruff</b> 🦊<br>
       <b>GraphQL (Strawberry)</b> 🍓<br>
-      <b>Alembic</b> 🏛️
+      <b>Alembic</b> 🏛️<br>
+      <b>SSE</b> 📡<br>
+      <b>WebSockets</b> 🔗
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>Vue.js</b> 🌐<br>
@@ -41,6 +44,13 @@
       <b>Kinesis</b> ⚡<br>
       <b>Axios</b> 📡<br>
       <b>Tailwind CSS</b> 💨
+    </td>
+    <td style="vertical-align: top; text-align: left;">
+      <b>Django</b> 🎭<br>
+      <b>Django REST Framework</b> 🔗<br>
+      <b>Flask</b> 🍶<br>
+      <b>Memcached</b> 🧠<br>
+      <b>Aiohttp</b> 🌍
     </td>
   </tr>
 </table>
