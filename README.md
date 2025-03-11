@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Daniil Kupryianchyk</h2>
   <p>1.5 Years of Non-Commercial Development Experience</p>
-</div>
+</div>    
 
 <table>
   <tr>
@@ -38,7 +38,7 @@
       <b>Celery</b> 🐍⏱️<br>
       <b>Pydantic</b> 📜<br>
       <b>JWT</b> 🔑<br>
-      <b>httpx</b> 🌐<br>
+      <b>Httpx</b> 🌐<br>
       <b>AsyncIO</b> 🌀<br>
       <b>Pytest</b> 🧪<br>
       <b>Ruff</b> 🦊<br>
@@ -53,7 +53,6 @@
       <b>Vue.js</b> 🌐<br>
       <b>Vue Router</b> 🛣️<br>
       <b>Pinia</b> 📦<br>
-      <b>Kinesis</b> ⚡<br>
       <b>Axios</b> 📡<br>
       <b>Tailwind CSS</b> 💨
     </td>
@@ -65,7 +64,6 @@
       <b>Aiohttp</b> 🌍<br>
       <b>GitHub CI/CD</b> ⚙️<br>
       <b>Aiogram</b> 🤖<br>
-      <b>Jinja</b> 🧩
     </td>
   </tr>
 </table>
