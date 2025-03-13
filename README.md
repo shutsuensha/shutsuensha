@@ -1,7 +1,6 @@
 <div align="center">
   <h2>Daniil Kupryianchyk</h2>
-  <p>1.5 Years of Non-Commercial Development Experience <br>
-  <a href="https://pint3rest.xyz/" target="_blank">pint3rest.xyz</a></p>
+  <p>1.5 Years of Non-Commercial Development Experience</p>
 </div>      
 
 <table>
