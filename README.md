@@ -7,7 +7,7 @@
   <tr>
     <th style="text-align: center;">🚀 Deployment & Infrastructure</th>
     <th style="text-align: center;">🗄️ Databases</th>
-    <th style="text-align: center;">🐍 Backend (Python)</th>
+    <th style="text-align: center;">🐍 Backend</th>
     <th style="text-align: center;">🎨 Frontend</th>
     <th style="text-align: center;">🛠️ Other Experience</th>
   </tr>
@@ -19,8 +19,8 @@
       <b>GitLab CI/CD</b> 🚀<br>
       <b>VPS</b> 🌍<br>
       <b>SSL</b> 🔒<br>
-      <b>Yandex S3</b> ☁️<br>
-      <b>Google OAuth2</b> 🔑<br>
+      <b>Yandex Cloud</b> ☁️<br>
+      <b>Google Cloud</b> 🔑<br>
       <b>Git</b> 🌀
     </td>
     <td style="vertical-align: top; text-align: left;">
@@ -30,7 +30,6 @@
       <b>Redis</b> 🔴
     </td>
     <td style="vertical-align: top; text-align: left;">
-      <b>Python</b> 🐍<br>
       <b>FastAPI</b> ⚡<br>
       <b>FastAPI-Mail</b> 📧<br>
       <b>FastAPI-Cache</b> 🧊<br>
@@ -42,7 +41,7 @@
       <b>AsyncIO</b> 🌀<br>
       <b>Pytest</b> 🧪<br>
       <b>Ruff</b> 🦊<br>
-      <b>GraphQL (Strawberry)</b> 🍓<br>
+      <b>Strawberry(GraphQL)</b> 🍓<br>
       <b>Alembic</b> 🏛️<br>
       <b>SSE</b> 📡<br>
       <b>WebSockets</b> 🔗<br>
@@ -60,7 +59,6 @@
       <b>Django</b> 🎭<br>
       <b>Django REST</b> 🔗<br>
       <b>Flask</b> 🍶<br>
-      <b>Memcached</b> 🧠<br>
       <b>Aiohttp</b> 🌍<br>
       <b>GitHub CI/CD</b> ⚙️<br>
       <b>Aiogram</b> 🤖<br>
