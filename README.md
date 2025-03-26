@@ -2,7 +2,9 @@
   <h2>Daniil Kupryianchyk</h2>
   <p>1.5 Years of Non-Commercial Development Experience</p>
 </div>      
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,mysql,gitlab" alt="Tech Stack Icons" />
+</div>
 <table>
   <tr>
     <th style="text-align: center;">🚀 Deployment & Infrastructure</th>
