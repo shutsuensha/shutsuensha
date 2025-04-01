@@ -74,7 +74,7 @@
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,tms_solutions&theme=transparent" />
     </td>
     <td style="border: none;">
-      <img src="shelby.gif" alt="Alt Text" width="280">
+      <img src="anime.jpg" alt="Alt Text" width="280">
     </td>
   </tr>
 </table>
