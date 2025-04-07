@@ -84,3 +84,8 @@
 
 ## 🏆 **Certifications & Achievements**
 - 🏅 [FastAPI Artem Shumeiko Certification](https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf)
+
+## ✨
+<a href="https://yourdomain.com/cv.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+</a>
