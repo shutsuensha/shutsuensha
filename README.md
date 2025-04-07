@@ -3,6 +3,20 @@
   </p>
   <p>1.5 Years of Non-Commercial Development Experience</p>
 </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kupryianchyk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/your_telegram_username" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://yourdomain.com/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab" alt="Tech Stack Icons" />
 </div>
@@ -86,18 +100,4 @@
 - 🏅 [FastAPI Artem Shumeiko Certification](https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf)
 
 
-## 👋 **Reach Me**
-<p align="left">
-  <a href="https://www.linkedin.com/in/kupryianchyk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-kupryianchyk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Send-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/your_telegram_username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://yourdomain.com/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-View-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-  </a>
-</p>
+
