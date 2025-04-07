@@ -88,7 +88,7 @@
 
 <p align="right">
   <a href="https://www.linkedin.com/in/kupryianchyk">
-    <img src="https://img.shields.io/badge/LinkedIn-123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your_email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
