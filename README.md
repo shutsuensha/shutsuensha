@@ -98,6 +98,6 @@
     <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://yourdomain.com/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Download-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/CV-View-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
