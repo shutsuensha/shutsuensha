@@ -36,7 +36,8 @@
       <b>FastAPI-Mail</b> 📧<br>
       <b>FastAPI-Cache</b> 🧊<br>
       <b>SQLAlchemy</b> 🛠️<br>
-      <b>Celery</b> 🐍⏱️<br>
+      <b>Celery</b> 🐍<br>
+      <b>Celery Beat</b> ⏱️<br>
       <b>Pydantic</b> 📜<br>
       <b>JWT</b> 🔑<br>
       <b>Httpx</b> 🌐<br>
