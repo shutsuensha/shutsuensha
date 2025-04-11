@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Daniil Kupryianchyk</h2>  ᶻ 𝗓 𐰁
+  <h2>Daniil Kupryianchyk</h2> 
   </p>
   <p>ᶻ 𝗓 𐰁</p>
   <p>1.5 Years of Non-Commercial Development Experience</p>
