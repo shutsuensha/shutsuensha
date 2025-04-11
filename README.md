@@ -82,9 +82,26 @@
   </tr>
 </table>
 
-## 🏆 **Certifications & Achievements**
-- 🏅 [FastAPI Artem Shumeiko Certification](https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf)
-- 🏅 [TeachMeSkills Certification](https://github.com/shutsuensha/shutsuensha/blob/main/TMS.pdf)
+
+## 🏆 Certifications & Achievements
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf" target="_blank">
+        <img src="FastAPI-ArtemShumeiko-1.png" width="250" alt="FastAPI Certificate Page 1"/><br/>
+        <img src="FastAPI-ArtemShumeiko-2.png" width="250" alt="FastAPI Certificate Page 2"/><br/>
+        <b>FastAPI — Artem Shumeiko Certification</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shutsuensha/shutsuensha/blob/main/TMS.pdf" target="_blank">
+        <img src="TMS-1.png" width="250" alt="TeachMeSkills Certificate"/><br/>
+        <b>TeachMeSkills Certification</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ✨
 <a href="https://yourdomain.com/cv.pdf" target="_blank">
