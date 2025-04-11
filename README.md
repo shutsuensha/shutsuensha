@@ -74,27 +74,13 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-      <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive5,archive6&theme=transparent" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,tms_solutions&theme=transparent" />
     </td>
     <td style="border: none;">
-      <img height="200" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&theme=transparent&show_owner=true" />
+      <img src="Screenshot 2025-03-27 214326.png" alt="Alt Text" width="200">
     </td>
   </tr>
 </table>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive5,archive6&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&theme=transparent&show_owner=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive5,archive6&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&theme=transparent&show_owner=true" />
-</a>
 
 ## 🏆 **Certifications & Achievements**
 - 🏅 [FastAPI Artem Shumeiko Certification](https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf)
@@ -104,5 +90,3 @@
 <a href="https://yourdomain.com/cv.pdf" target="_blank">
   <img src="https://img.shields.io/badge/CV-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
 </a>
-
-<img height="200" width="200" src="Screenshot 2025-03-27 214326.png" />
