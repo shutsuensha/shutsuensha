@@ -95,15 +95,15 @@
   <tr>
 <td align="center">
   <a href="https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf" target="_blank">
-      <h4>Artem Shumeiko Certification</h4>
       <img src="FastAPI-ArtemShumeiko-1.png" width="200" alt="FastAPI Certificate Page 1"/>
     <br/>
+    <b>Artem Shumeiko Certification</b>
   </a>
 </td>
     <td align="center">
       <a href="https://github.com/shutsuensha/shutsuensha/blob/main/TMS.pdf" target="_blank">
-        <h4>TeachMeSkills Certification</h4>
         <img src="TMS-1.png" width="500" alt="TeachMeSkills Certificate"/><br/>
+        <b>TeachMeSkills Certification</b>
       </a>
     </td>
   </tr>
