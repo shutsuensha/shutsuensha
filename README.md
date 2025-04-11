@@ -90,3 +90,5 @@
 <a href="https://yourdomain.com/cv.pdf" target="_blank">
   <img src="https://img.shields.io/badge/CV-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
 </a>
+
+<img height="200" width="200" src="Screenshot 2025-03-27 214326.png" />
