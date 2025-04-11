@@ -1,6 +1,7 @@
 <div align="center">
-  <h2>Daniil Kupryianchyk ᶻ 𝗓 𐰁</h2>
+  <h2>Daniil Kupryianchyk</h2>  ᶻ 𝗓 𐰁
   </p>
+  <p>ᶻ 𝗓 𐰁</p>
   <p>1.5 Years of Non-Commercial Development Experience</p>
 </div>
 <div align="center">
@@ -108,7 +109,7 @@
 
 
 <p align="center">
-  <strong>✨✨✨ ᶻ 𝗓 𐰁</strong>
+  <strong>✨✨✨</strong>
 </p>
 
 <p align="center">
