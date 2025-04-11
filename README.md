@@ -79,6 +79,9 @@
     <td style="border: none;">
       <img src="Screenshot 2025-03-27 214326.png" alt="Alt Text" width="200">
     </td>
+    <td style="border: none;">
+      <img src="f5fc264968770d9e7c8c1129e8a5da9f.jpg" alt="Alt Text" width="200">
+    </td>
   </tr>
 </table>
 
@@ -96,7 +99,7 @@
 </td>
     <td align="center">
       <a href="https://github.com/shutsuensha/shutsuensha/blob/main/TMS.pdf" target="_blank">
-        <img src="TMS-1.png" width="400" alt="TeachMeSkills Certificate"/><br/>
+        <img src="TMS-1.png" width="500" alt="TeachMeSkills Certificate"/><br/>
         <b>TeachMeSkills Certification</b>
       </a>
     </td>
@@ -104,13 +107,18 @@
 </table>
 
 
-### ✨✨✨
-<a href="https://yourdomain.com/cv.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-</a>
-<a href="https://t.me/your_username" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://linkedin.com/in/your_username" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p align="center">
+  <strong>✨✨✨</strong>
+</p>
+
+<p align="center">
+  <a href="https://yourdomain.com/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://t.me/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
