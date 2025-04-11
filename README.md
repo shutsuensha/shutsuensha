@@ -79,11 +79,9 @@
     <td style="border: none;">
       <img src="Screenshot 2025-03-27 214326.png" alt="Alt Text" width="200">
     </td>
-    <td style="border: none;">
-<img height="200" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&theme=transparent&show_owner=true" />
-    </td>
   </tr>
 </table>
+<img height="200" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&theme=transparent&show_owner=true" />
 
 ## 🏆 **Certifications & Achievements**
 - 🏅 [FastAPI Artem Shumeiko Certification](https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf)
