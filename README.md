@@ -82,6 +82,20 @@
   </tr>
 </table>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive5,archive6&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&theme=transparent&show_owner=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive5,archive6&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&theme=transparent&show_owner=true" />
+</a>
+
 ## 🏆 **Certifications & Achievements**
 - 🏅 [FastAPI Artem Shumeiko Certification](https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf)
 - 🏅 [TeachMeSkills Certification](https://github.com/shutsuensha/shutsuensha/blob/main/TMS.pdf)
