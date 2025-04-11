@@ -1,6 +1,9 @@
 <div align="center">
   <h2>Daniil Kupryianchyk</h2> 
   </p>
+  <p align="center">
+  ᶻ 𝗓 𐰁
+  </p>
   <p>1.5 Years of Non-Commercial Development Experience</p>
 </div>
 <div align="center">
@@ -121,8 +124,4 @@
   <a href="https://linkedin.com/in/your_username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  ᶻ 𝗓 𐰁
 </p>
