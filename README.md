@@ -90,8 +90,8 @@
 <td align="center">
   <a href="https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf" target="_blank">
     <div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center;">
-      <img src="FastAPI-ArtemShumeiko-1.png" width="200" alt="FastAPI Certificate Page 1"/>
-      <img src="FastAPI-ArtemShumeiko-2.png" width="200" alt="FastAPI Certificate Page 2"/>
+      <img src="FastAPI-ArtemShumeiko-1.png" width="100" alt="FastAPI Certificate Page 1"/>
+      <img src="FastAPI-ArtemShumeiko-2.png" width="100" alt="FastAPI Certificate Page 2"/>
     </div>
     <br/>
     <b>FastAPI — Artem Shumeiko Certification</b>
@@ -99,7 +99,7 @@
 </td>
     <td align="center">
       <a href="https://github.com/shutsuensha/shutsuensha/blob/main/TMS.pdf" target="_blank">
-        <img src="TMS-1.png" width="400" alt="TeachMeSkills Certificate"/><br/>
+        <img src="TMS-1.png" width="200" alt="TeachMeSkills Certificate"/><br/>
         <b>TeachMeSkills Certification</b>
       </a>
     </td>
