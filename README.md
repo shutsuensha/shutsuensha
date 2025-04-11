@@ -92,7 +92,7 @@
   <tr>
 <td align="center">
   <a href="https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf" target="_blank">
-      <img src="FastAPI-ArtemShumeiko-1.png" width="200" alt="FastAPI Certificate Page 1"/>
+      <img src="FastAPI-ArtemShumeiko-1.png" width="300" alt="FastAPI Certificate Page 1"/>
     <br/>
     <b>Artem Shumeiko Certification</b>
   </a>
