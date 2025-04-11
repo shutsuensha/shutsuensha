@@ -123,6 +123,4 @@
   </a>
 </p>
 
-<p align="center">
-  <h1>ᶻ 𝗓 𐰁 </h1>
-</p>
+<h1 align="center">ᶻ 𝗓 𐰁 </h1>
