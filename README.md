@@ -74,16 +74,20 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,tms_solutions&theme=transparent" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=4&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive5,archive6&theme=transparent" />
     </td>
     <td style="border: none;">
       <img src="Screenshot 2025-03-27 214326.png" alt="Alt Text" width="200">
+    </td>
+    <td style="border: none;">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&theme=transparent&show_owner=true" />
     </td>
   </tr>
 </table>
 
 ## 🏆 **Certifications & Achievements**
 - 🏅 [FastAPI Artem Shumeiko Certification](https://github.com/shutsuensha/shutsuensha/blob/main/fastapi.pdf)
+- 🏅 [TeachMeSkills Certification](https://github.com/shutsuensha/shutsuensha/blob/main/TMS.pdf)
 
 ## ✨
 <a href="https://yourdomain.com/cv.pdf" target="_blank">
