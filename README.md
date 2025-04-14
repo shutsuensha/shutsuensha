@@ -43,7 +43,7 @@
       <b>Celery</b> 🐍<br>
       <b>Celery Beat</b> ⏱️<br>
       <b>Pydantic</b> 📜<br>
-      <b>JWT</b> 🔑<br>
+      <b>Jwtb> 🔑<br>
       <b>Httpx</b> 🌐<br>
       <b>AsyncIO</b> 🌀<br>
       <b>Pytest</b> 🧪<br>
