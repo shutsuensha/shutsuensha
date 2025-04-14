@@ -13,7 +13,7 @@
   <tr>
     <th style="text-align: center;">🚀 Deployment & Infrastructure</th>
     <th style="text-align: center;">🗄️ Databases</th>
-    <th style="text-align: center;">🐍 Backend (Python)</th>
+    <th style="text-align: center;">🐍 Backend</th>
     <th style="text-align: center;">🎨 Frontend</th>
     <th style="text-align: center;">🛠️ Other Experience</th>
   </tr>
@@ -26,7 +26,7 @@
       <b>VPS</b> 🌍<br>
       <b>SSL</b> 🔒<br>
       <b>Yandex Cloud</b> ☁️<br>
-      <b>Google Cloud</b> 🔑<br>
+      <b>Google Cloud</b> ☁️<br>
       <b>Git</b> 🌀
     </td>
     <td style="vertical-align: top; text-align: left;">
