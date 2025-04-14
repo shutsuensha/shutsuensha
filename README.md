@@ -1,9 +1,6 @@
 <div align="center">
   <h2>Daniil Kupryianchyk</h2> 
   </p>
-  <p align="center">
-  ᶻ 𝗓 𐰁
-  </p>
   <p>1.5 Years of Non-Commercial Development Experience</p>
 </div>
 <div align="center">
