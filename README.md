@@ -118,7 +118,7 @@
   <a href="https://t.me/evalshine" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/your_username" target="_blank">
+  <a href="https://www.linkedin.com/in/daniil-kupryianchyk-960594322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
