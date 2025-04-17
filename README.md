@@ -112,10 +112,10 @@
 </p>
 
 <p align="center">
-  <a href="https://yourdomain.com/cv.pdf" target="_blank">
+  <a href="https://pint3rest.xyz/resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/evalshine" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://linkedin.com/in/your_username" target="_blank">
