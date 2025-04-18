@@ -45,7 +45,7 @@
       <b>AsyncIO</b> 🌀<br>
       <b>Pytest</b> 🧪<br>
       <b>Ruff</b> 🦊<br>
-      <b>Strawberry</b> 🍓<br>
+      <b>Strawberry (GraphQL)</b> 🍓<br>
       <b>Alembic</b> 🏛️<br>
       <b>SSE</b> 📡<br>
       <b>WebSockets</b> 🔗<br>
