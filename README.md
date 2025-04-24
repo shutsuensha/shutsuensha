@@ -107,11 +107,14 @@
 </table>
 
 
-<p align="center">
-  <strong>✨✨✨</strong>
-</p>
+<a href="https://github.com/shutsuensha">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=shutsuensha&theme=transparent&show_icons=tru&hide_border=true" />
+</a>
+<a href="https://github.com/shutsuensha/pint3rest.xyz">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&hide_border=true&theme=transparent&show_owner=true" />
+</a>
 
-<p align="center">
+<p align="left">
   <a href="https://pint3rest.xyz/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
@@ -125,11 +128,3 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-
-<a href="https://github.com/shutsuensha">
-  <img height=250 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=shutsuensha&theme=transparent&show_icons=tru&hide_border=true" />
-</a>
-<a href="https://github.com/shutsuensha/pint3rest.xyz">
-  <img height=250 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&hide_border=true&theme=transparent&show_owner=true" />
-</a>
