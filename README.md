@@ -114,9 +114,13 @@
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shutsuensha&repo=pint3rest.xyz&hide_border=true&theme=transparent&show_owner=true" />
 </a>
 
+
 <p align="left">
+  <a href="https://drive.google.com/file/d/1gkMx7bBNnDl95wmoXoW6aj7aF-6VDcPJ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV-6B7280?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
+  </a>
   <a href="https://pint3rest.xyz/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://t.me/evalshine" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
