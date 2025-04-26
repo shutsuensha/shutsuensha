@@ -20,7 +20,7 @@
       <b>Docker Compose</b> 📦<br>
       <b>Nginx</b> ⚙️<br>
       <b>GitLab CI/CD</b> 🚀<br>
-      <b>VPS</b> 🌍<br>
+      <b>VPS/VDS</b> 🌍<br>
       <b>SSL</b> 🔒<br>
       <b>Yandex Cloud</b> ☁️<br>
       <b>Google Cloud</b> ☁️<br>
