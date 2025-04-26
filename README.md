@@ -52,6 +52,7 @@
       <b>Logging</b> 📝<br>
       <b>Aiofiles</b> 📂<br>
       <b>Redis Pub/Sub</b> 🌀 <br>
+      <b>Redis Stream</b> 🧭<br>
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>Vue.js</b> 🌐<br>
