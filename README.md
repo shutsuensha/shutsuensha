@@ -39,6 +39,7 @@
       <b>SQLAlchemy</b> 🛠️<br>
       <b>Celery</b> 🐍<br>
       <b>Celery Beat</b> ⏱️<br>
+      <b>RabbitMQ</b> 🐇<br>
       <b>Pydantic</b> 📜<br>
       <b>Jwt</b> 🔑<br>
       <b>Httpx</b> 🌐<br>
