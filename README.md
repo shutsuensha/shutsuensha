@@ -4,7 +4,7 @@
   <p>1.5 Years of Non-Commercial Development Experience</p>
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
 </div>
 <table>
   <tr>
