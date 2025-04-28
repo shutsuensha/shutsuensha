@@ -51,6 +51,7 @@
       <b>SSE</b> 📡<br>
       <b>WebSockets</b> 🔗<br>
       <b>Logging</b> 📝<br>
+      <b>Sentry</b> 🧠<br>
       <b>Aiofiles</b> 📂<br>
       <b>Redis Pub/Sub</b> 🌀 <br>
       <b>Redis Stream</b> 🧭<br>
