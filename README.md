@@ -24,7 +24,9 @@
       <b>SSL</b> 🔒<br>
       <b>Yandex Cloud</b> ☁️<br>
       <b>Google Cloud</b> ☁️<br>
-      <b>Git</b> 🌀
+      <b>Git</b> 🌀<br>
+      <b>Sentry</b> 🛡️<br>
+      <b>Prometheus</b> 📊
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>MongoDB</b> 🗄️<br>
@@ -51,11 +53,9 @@
       <b>SSE</b> 📡<br>
       <b>WebSockets</b> 🔗<br>
       <b>Logging</b> 📝<br>
-      <b>Sentry</b> 🛡️<br>
       <b>Aiofiles</b> 📂<br>
       <b>Redis Pub/Sub</b> 🌀 <br>
       <b>Redis Stream</b> 🧭<br>
-      <b>Prometheus</b> 📊
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>Vue.js</b> 🌐<br>
