@@ -26,7 +26,8 @@
       <b>Google Cloud</b> ☁️<br>
       <b>Git</b> 🌀<br>
       <b>Sentry</b> 🛡️<br>
-      <b>Prometheus</b> 📊
+      <b>Prometheus</b> 📊<br>
+      <b>Grafana</b> 📉
     </td>
     <td style="vertical-align: top; text-align: left;">
       <b>MongoDB</b> 🗄️<br>
