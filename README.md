@@ -22,7 +22,7 @@
       <b>GitLab CI/CD</b> 🚀<br>
       <b>VPS/VDS</b> 🌍<br>
       <b>SSL</b> 🔒<br>
-      <b>Yandex Cloud (S3)/b> ☁️<br>
+      <b>Yandex Cloud (S3)</b> ☁️<br>
       <b>Google Cloud (OAuth2)</b> ☁️<br>
       <b>Git</b> 🌀<br>
       <b>Sentry</b> 🛡️<br>
