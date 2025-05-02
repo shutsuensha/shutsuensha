@@ -22,8 +22,8 @@
       <b>GitLab CI/CD</b> 🚀<br>
       <b>VPS/VDS</b> 🌍<br>
       <b>SSL</b> 🔒<br>
-      <b>Yandex Cloud</b> ☁️<br>
-      <b>Google Cloud</b> ☁️<br>
+      <b>Yandex Cloud (S3)/b> ☁️<br>
+      <b>Google Cloud (OAuth2)</b> ☁️<br>
       <b>Git</b> 🌀<br>
       <b>Sentry</b> 🛡️<br>
       <b>Prometheus</b> 📊<br>
@@ -73,7 +73,7 @@
       <b>Flask</b> 🍶<br>
       <b>Aiohttp</b> 🌍<br>
       <b>GitHub CI/CD</b> ⚙️<br>
-      <b>Aiogram</b> 🤖<br>
+      <b>Aiogram</b> 🤖<br>  
     </td>
   </tr>
 </table>
