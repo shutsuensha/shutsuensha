@@ -46,7 +46,7 @@
       <b>Celery Beat</b> ⏱️<br>
       <b>RabbitMQ</b> 🐇<br>
       <b>Pydantic</b> 📜<br>
-      <b>Jwt</b> 🔑<br>
+      <b>Jwt + OAuth2 </b> 🔑<br>
       <b>Httpx</b> 🌐<br>
       <b>AsyncIO</b> 🌀<br>
       <b>Pytest</b> 🧪<br>
