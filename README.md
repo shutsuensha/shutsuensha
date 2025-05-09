@@ -41,6 +41,7 @@
       <b>FastAPI</b> ⚡<br>
       <b>FastAPI-Mail</b> 📧<br>
       <b>FastAPI-Cache</b> 🧊<br>
+      <b>FastAPI-Limiter</b> 🛡️<br>
       <b>SQLAlchemy</b> 🛠️<br>
       <b>Celery</b> 🐍<br>
       <b>Celery Beat</b> ⏱️<br>
