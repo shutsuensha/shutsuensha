@@ -82,7 +82,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,tms_solutions&theme=transparent&hide_border=true" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive6&theme=transparent&hide_border=true&cache_seconds=21600" />
     </td>
     <td style="border: none;">
       <img src="Screenshot 2025-03-27 214326.png" alt="Alt Text" width="200">
