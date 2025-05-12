@@ -11,7 +11,7 @@
     <th style="text-align: center;">🚀 Deployment & Infrastructure</th>
     <th style="text-align: center;">🗄️ Databases</th>
     <th style="text-align: center;">🐍 Backend</th>
-    <th style="text-align: center;">🎨 Frontend (Basic)</th>
+    <th style="text-align: center;">🎨 Frontend </th>
     <th style="text-align: center;">🛠️ Other Experience</th>
   </tr>
   <tr>
