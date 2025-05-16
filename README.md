@@ -84,6 +84,9 @@
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive6&theme=transparent&hide_border=true" />
     </td>
     <td style="border: none;">
+      <img src="Screenshot 2025-03-27 214326.png" alt="Alt Text" width="200">
+    </td>
+    <td style="border: none;">
       <img src="f5fc264968770d9e7c8c1129e8a5da9f.jpg" alt="Alt Text" width="200">
     </td>
   </tr>
