@@ -123,7 +123,7 @@
   <a href="https://pint3rest.xyz/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://t.me/evalshine" target="_blank">
+  <a href="https://t.me/daniilkupryianchyk" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/daniil-kupryianchyk-960594322" target="_blank">
