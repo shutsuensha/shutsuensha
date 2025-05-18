@@ -117,7 +117,7 @@
 
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1gkMx7bBNnDl95wmoXoW6aj7aF-6VDcPJ/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1oiZf0OsMBFnQlBwvGv1IqDOyVkA4pU1y/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-6B7280?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
   </a>
   <a href="https://pint3rest.xyz/portfolio" target="_blank">
