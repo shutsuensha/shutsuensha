@@ -83,6 +83,9 @@
     <td style="border: none;">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shutsuensha&layout=compact&langs_count=8&card_width=320&exclude_repo=archive1,online-store,archive2,archive3,archive4,archive6&theme=transparent&hide_border=true" />
     </td>
+    <td style="border: none;">
+      <img height="200" src="5c1e3e06a99cb2364306bc9e4870f18b.jpg" />
+    </td>
   </tr>
 </table>
 
