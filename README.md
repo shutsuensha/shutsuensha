@@ -1,7 +1,5 @@
 <div align="center">
-  <h2>Daniil Kupryianchyk</h2> 
-  </p>
-  <p>я стану лучшим</p>
+  <h2>я стану лучшим</h2> 
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
