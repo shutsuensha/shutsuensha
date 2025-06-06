@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Daniil Kupryianchyk</h2> 
   </p>
-  <p>1.5 Years of Non-Commercial Development Experience</p>
+  <p>я стану лучшим</p>
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
