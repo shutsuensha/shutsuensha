@@ -117,10 +117,10 @@
 
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1oiZf0OsMBFnQlBwvGv1IqDOyVkA4pU1y/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Ts9eZRC3gKWF8a0n0AORavhKU-MUxRaD/view" target="_blank">
     <img src="https://img.shields.io/badge/CV-6B7280?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
   </a>
-  <a href="https://pint3rest.xyz/portfolio" target="_blank">
+  <a href="https://shutsuensha.ru/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://t.me/daniilkupryianchyk" target="_blank">
