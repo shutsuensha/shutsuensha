@@ -1,7 +1,4 @@
 <div align="center">
-  <h2>я стану лучшим</h2> 
-</div>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
 </div>
 <table>
