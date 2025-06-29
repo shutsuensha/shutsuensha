@@ -1,4 +1,5 @@
-**Currently working**: [GameByBeavers](https://t.me/GameByBeavers) as FastAPI backend developer  
+**Currently working**: 
+- [GameByBeavers](https://t.me/GameByBeavers) as FastAPI backend developer  
 
 
 **Currently learning**: 
