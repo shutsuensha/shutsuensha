@@ -1,5 +1,4 @@
-**Currently working**: 
-- [GameByBeavers](https://t.me/GameByBeavers) as FastAPI backend developer  
+**Currently working**: [GameByBeavers](https://t.me/GameByBeavers) as FastAPI backend developer  
 
 
 **USDT (TRC20)**: `TUkS56ySHYCo8PFjokkT6KtsgojTGfqL2P`  
