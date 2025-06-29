@@ -1,7 +1,7 @@
-Currently working: [GameByBeavers](https://t.me/GameByBeavers) — FastAPI backend developer  
+**Currently working**: [GameByBeavers](https://t.me/GameByBeavers) — FastAPI backend developer  
 
 
-Currently learning: FastAPI Repository Pattern, OOP, Design Patterns, Backend Architectures & Planning
+**Currently learning**: FastAPI Repository Pattern, OOP, Design Patterns, Backend Architectures & Planning
 
 
 - **USDT (TRC20)**: `TUkS56ySHYCo8PFjokkT6KtsgojTGfqL2P`  
