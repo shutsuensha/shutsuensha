@@ -1,4 +1,16 @@
-<div align="center">
+Currently working: [GameByBeavers](https://t.me/GameByBeavers) — FastAPI backend developer  
+
+
+Currently learning: FastAPI Repository Pattern, OOP, Design Patterns, Backend Architectures & Planning
+
+
+- **USDT (TRC20)**: `TUkS56ySHYCo8PFjokkT6KtsgojTGfqL2P`  
+- **BTC (Bitcoin)**: `1GEd4BHoi4HiLeew1KrYrmEtFJWAqXNAzE`  
+- **ETH (ERC20)**: `0x736564ec2f0efb584881117267f48816def085bb`
+
+
+
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
 </div>
 <table>
@@ -130,4 +142,4 @@
   <a href="mailto:dankupr21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</p> -->
