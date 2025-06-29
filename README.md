@@ -1,3 +1,5 @@
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,mongodb,rabbitmq,gitlab,nginx,docker,vue,tailwindcss,pinia,vscode" alt="Tech Stack Icons" />
+
 **Currently working**: [GameByBeavers](https://t.me/GameByBeavers) as FastAPI backend developer  
 
 
