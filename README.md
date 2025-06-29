@@ -1,8 +1,14 @@
-**Currently working**: [GameByBeavers](https://t.me/GameByBeavers) — FastAPI backend developer  
+**Currently working**: [GameByBeavers](https://t.me/GameByBeavers) as FastAPI backend developer  
 
 
-**Currently learning**: FastAPI Repository Pattern, OOP, Design Patterns, Backend Architectures & Planning
-
+**Currently learning**: 
+- FastAPI Repository Pattern
+- OOP 
+- Design Patterns (SOLID, Factory, Strategy)
+- Backend Architectures & Planning
+- Domain-Driven Design (DDD) — для глубокой декомпозиции логики и структуры проекта
+- Clean Architecture / Hexagonal Architecture — для масштабируемости и тестируемости
+- Event-Driven Architecture (EDA) — особенно если используешь Celery, RabbitMQ, Redis Streams
 
 - **USDT (TRC20)**: `TUkS56ySHYCo8PFjokkT6KtsgojTGfqL2P`  
 - **BTC (Bitcoin)**: `1GEd4BHoi4HiLeew1KrYrmEtFJWAqXNAzE`  
