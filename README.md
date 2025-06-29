@@ -9,10 +9,11 @@
 
 **Currently learning**: 
 - FastAPI Repository Pattern
+- Unit Of Work
 - OOP 
 - Design Patterns (SOLID, Factory, Strategy)
 - Backend Architectures & Planning
-- Domain-Driven Design (DDD) — для глубокой декомпозиции логики и структуры проекта
+- Domain-Driven Design (DDD, DTO, DAO) — для глубокой декомпозиции логики и структуры проекта
 - Clean Architecture / Hexagonal Architecture — для масштабируемости и тестируемости
 - Event-Driven Architecture (EDA) — особенно если используешь Celery, RabbitMQ, Redis Streams
 
