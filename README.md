@@ -1,4 +1,3 @@
-<img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,mongodb,rabbitmq,gitlab,nginx,docker,vue,tailwindcss,pinia,vscode" alt="Tech Stack Icons" />
 #クルル・ツェペシ クルル・ツェペシ - S2のイラスト - pixiv
 終わりのセラフ-クルル・ツェペシ20210803
 
