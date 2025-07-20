@@ -1,22 +1,5 @@
 <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,mongodb,rabbitmq,gitlab,nginx,docker,vue,tailwindcss,pinia,vscode" alt="Tech Stack Icons" />
-
-**Currently working**: [GameByBeavers](https://t.me/GameByBeavers) as FastAPI backend developer  
-
-
-**USDT (TRC20)**: `TUkS56ySHYCo8PFjokkT6KtsgojTGfqL2P`  
-**BTC (Bitcoin)**: `1GEd4BHoi4HiLeew1KrYrmEtFJWAqXNAzE`  
-**ETH (ERC20)**: `0x736564ec2f0efb584881117267f48816def085bb`
-
-**Currently learning**: 
-- FastAPI Repository Pattern
-- Unit Of Work
-- OOP 
-- Design Patterns (SOLID, Factory, Strategy)
-- Backend Architectures & Planning
-- Domain-Driven Design (DDD, DTO, DAO) — для глубокой декомпозиции логики и структуры проекта
-- Clean Architecture / Hexagonal Architecture — для масштабируемости и тестируемости
-- Event-Driven Architecture (EDA) — особенно если используешь Celery, RabbitMQ, Redis Streams
-
+Hi!
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
