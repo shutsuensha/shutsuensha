@@ -1,5 +1,8 @@
 #クルル・ツェペシ クルル・ツェペシ - S2のイラスト - pixiv
 終わりのセラフ-クルル・ツェペシ20210803
+<a href="https://github.com/shutsuensha">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=shutsuensha&theme=graywhite&show_icons=tru&hide_border=true&cache_seconds=21600" />
+</a>
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
