@@ -1,5 +1,6 @@
 <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,mongodb,rabbitmq,gitlab,nginx,docker,vue,tailwindcss,pinia,vscode" alt="Tech Stack Icons" />
-Hi!
+#クルル・ツェペシ クルル・ツェペシ - S2のイラスト - pixiv
+終わりのセラフ-クルル・ツェペシ20210803
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,python,fastapi,vue,tailwind,postgres,mongodb,redis,gitlab,rabbitmq" alt="Tech Stack Icons" />
