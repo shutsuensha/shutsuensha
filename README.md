@@ -1,16 +1,31 @@
-## Hi there 👋
+# Daniil Kupriyanchyk
 
-<!--
-**shutsuensha/shutsuensha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer specializing in Python and FastAPI.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Kafka
+- Docker
+- Nginx
+- GitLab CI/CD
+
+## Focus
+
+- High-load backend systems
+- API performance and optimization
+- Database and query optimization
+- Caching
+- Asynchronous processing
+- Distributed systems
+- Scalable backend architecture
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/daniil-kupriyanchyk-960594322/
+- Telegram: https://t.me/daniilkupriyanchyk
